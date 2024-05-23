@@ -1,0 +1,118 @@
+body{
+
+  margin:0;
+  padding:0;
+  min-height: 1350px;
+  background-color:rgb(153, 221, 154);
+  font-family: 'cairo', sans-serif;
+  color: rgb(4, 14, 2);
+
+  font-family: "Cairo", sans-serif;
+  }
+
+
+
+ section{
+  position: relative;
+  min-height: 30vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+    }
+  
+    .bg{
+  position: fixed;
+  background-image:url(c:\Users\abdel\Downloads\715.webp) ;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height:0px;
+  border-top: 1px solid #999;
+  border-bottom:1px solid #9999;
+  }
+  
+  div button{
+  width: 140px;
+  padding:3px;
+  font-family: 'cairo', sans-serif;
+  background-color:wheat;
+  font-size: 22px;
+  color:black;
+  
+  border :2px solid white;
+  margin-top: 10px;
+  
+  font-style: bold;
+  border-radius: 20px 0px 20px 0px;
+  
+  cursor: pointer;
+  
+  }
+
+  div button:hover{
+  
+    color:rgb(30, 19, 19);
+    background:hsl(29, 93%, 48%);
+    border: 2px solid hsl(29, 93%, 48%);
+    }
+     
+    #d1,#d2,#d3,#d4,#d5,#d6,#d7,#d8,#d9,#d10,#d11,#d12,#d13,#d14,#d15,#d16,#d17,#d18,#d19,#d20,#d21 {
+    
+    width: 400px;
+    height: 330px;
+    background-color:rgb(193, 198, 120);
+    border-radius: 30px;
+    color:rgb(22, 18, 12);
+  
+    margin-top: 30px;
+    
+  display: none;
+  }
+    
+    #rob{
+    
+      color:rgb(36, 131, 2);
+      font-size: 22px;
+      font-weight: bold;
+    }
+    
+    #sda{
+    color:red;
+    }
+    
+    #sor{
+    
+    width: 800px;
+    height: 400px;
+   
+    top: 80px;;
+    left: 430px;;
+    border-radius: 45px;
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
